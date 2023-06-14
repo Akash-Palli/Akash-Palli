@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash-Palli
+- 👋 Hi, I’m Akash-Palli
 - I am Software Engineer at Tech Mahindra
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Generative AI
