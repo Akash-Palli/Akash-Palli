@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash-Palli
-- I am Data Scientist at Cognizant
+- Gen AI Engineer
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate with people
